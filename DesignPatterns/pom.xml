@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <artifactId>overlord</artifactId>
-        <groupId>com.overlord</groupId>
+        <groupId>com</groupId>
         <version>1.0</version>
     </parent>
 
